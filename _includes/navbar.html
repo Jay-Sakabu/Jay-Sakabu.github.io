@@ -1,6 +1,12 @@
 <!-- TODO: Add custom styling for this later -->
-<nav>
-  <a href="/">Home</a> |
-  <a href="/about/">About</a> | 
-  <a href="/resume/">Resume</a>
+<nav class="site-nav">
+    <ul>
+        {% for item in site.data.navigation %}
+        <li>
+            <a href="{{ item.url | relative_url }}">
+                {{ item.title }}
+            </a>
+        </li>
+        {% endfor %}
+    </ul>
 </nav>
