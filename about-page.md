@@ -1,10 +1,8 @@
 ---
-layout: page
+layout: default
 title: "ABOUT-PAGE"
 permalink: /about/
 ---
-{% include navbar.html %}
-
 # About page
 Test content 
 
