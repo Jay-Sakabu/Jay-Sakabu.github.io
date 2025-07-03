@@ -1,20 +1,15 @@
----
-layout: null
----
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="UTF-8" />
-    <title>{{ page.title }} | {{ site.title }}</title>
-    {% include head.html %}
-    <link rel="stylesheet" href="/assets/css/custom.css" />
+    {% include head-custom.html %}
   </head>
   <body>
     {% include navbar.html %}
 
-    <main>
+    <main class="shell">
       {{ content }}
     </main>
+
+    {% include footer.html %}
   </body>
 </html>
