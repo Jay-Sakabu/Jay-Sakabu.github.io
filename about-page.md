@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "ABOUT-PAGE"
-permalink: /about
+permalink: /about/
 ---
 # About page
 Test content 
