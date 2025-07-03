@@ -5,6 +5,4 @@ permalink: /contact/
 ---
 
 ## Contact me at
-sakabujay@gmail.com and follow me on linkedin!
-
-https://www.linkedin.com/in/jay-sakabu-b78a04136/
+sakabujay@gmail.com and [Follow me on LinkedIn!](https://www.linkedin.com/in/jay-sakabu-b78a04136/)
