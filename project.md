@@ -10,6 +10,6 @@ Check it out! I created this simple budgeting app to deliver a simple percentage
 
 ![BudgetNow! Screenshot](assets/budget.png)
 
-https://jaysak.netlify.app/
+Check out my project [here!](https://jaysak.netlify.app/)
 
-https://github.com/Jay-Sakabu/LaunchCode-Unit-1-Final-Project/
+Want to see the code? Check out the [repo!](https://github.com/Jay-Sakabu/LaunchCode-Unit-1-Final-Project/)
