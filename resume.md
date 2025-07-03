@@ -1,8 +1,9 @@
 ---
-layout: default
+layout: page
 title: "resume page"
 permalink: /resume/
 ---
+{% include navbar.html %}
 
 ## Resume 
 

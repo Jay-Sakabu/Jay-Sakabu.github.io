@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: home
 title: "Home"
 ---
+{% include navbar.html %}
 
 # Welcome to my portfolio
 
