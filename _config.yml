@@ -1,6 +1,35 @@
 title: Jay P. Sakabu
-description: Software Engineer
-remote_theme: pages-themes/merlot@v0.2.0
+description: Software Engineer. I break problems down to their simplest form, then build them back up.
+lang: en-US
+
+author:
+  name: Jay Sakabu
+  short: Jay
+  initials: JS
+  tagline: >-
+    College graduate and self-motivated problem solver. I find what's broken in
+    the tools people use and fix it by boiling the problem down to its most basic form.
+
+# Cycled in the hero's "terminal" line
+roles:
+  - Software Engineer
+  - Problem Solver
+  - Full-Stack Developer
+  - Tool Fixer
+
+social:
+  github: https://github.com/Jay-Sakabu
+  linkedin: https://www.linkedin.com/in/jay-sakabu-b78a04136/
+
+skills:
+  languages: [Python, Java, C, JavaScript]
+  frameworks: [Spring Boot, React]
+
 plugins:
-  - jekyll-remote-theme
-show_downloads: false
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor

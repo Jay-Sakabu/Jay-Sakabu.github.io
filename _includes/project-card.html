@@ -1,0 +1,16 @@
+{%- assign p = include.project -%}
+<article class="card project-card reveal" data-spotlight>
+  <a class="project-media" href="{{ p.live | default: p.repo }}" aria-label="Open {{ p.name }}">
+    <img src="{{ p.image | relative_url }}" alt="Screenshot of {{ p.name }}" loading="lazy">
+  </a>
+  <div class="project-body">
+    <p class="eyebrow">{{ p.tagline }}</p>
+    <h3 class="project-title">{{ p.name }}</h3>
+    <p class="project-desc">{{ p.description }}</p>
+    <ul class="tags">{% for t in p.tags %}<li>{{ t }}</li>{% endfor %}</ul>
+    <div class="btn-row">
+      {% if p.live %}<a class="btn btn-primary" href="{{ p.live }}">Live demo {% include icon.html name="external" %}</a>{% endif %}
+      {% if p.repo %}<a class="btn btn-ghost" href="{{ p.repo }}">{% include icon.html name="code" %} Source</a>{% endif %}
+    </div>
+  </div>
+</article>

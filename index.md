@@ -1,8 +1,10 @@
 ---
-layout: default
-title: "Home"
+layout: home
+title: Home
 ---
 
-# Who am I, anyways?
+### Who am I, anyway?
 
-I'm Jay, a college graduate and self-motivated problem solver. I enjoy seeing what issues exist with tools and seek to fix them by boiling the problems down into their most basic form. I have experience in multiple languages such as Python, C, Java, JavaScript as well as frameworks like SpringBoot and React.JS! I'd love to have a conversation on just about anything tech-related or adjacent, so if you'd like to chat go ahead and [message me on LinkedIn!](https://www.linkedin.com/in/jay-sakabu-b78a04136/)
+I'm Jay, a college graduate and self-motivated problem solver. I enjoy finding the flaws in the tools people use and fixing them by boiling each problem down to its most basic form.
+
+I've worked in **Python, C, Java and JavaScript**, and with frameworks like **Spring Boot** and **React**. I'd love to chat about anything tech-related or adjacent, so [message me on LinkedIn](https://www.linkedin.com/in/jay-sakabu-b78a04136/)!

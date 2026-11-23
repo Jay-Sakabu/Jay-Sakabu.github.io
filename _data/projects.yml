@@ -1,0 +1,9 @@
+- name: Budget Now!
+  tagline: Budgeting made quick and easy
+  description: >-
+    Enter a number, press a button, get a percentage-based budget. One input and
+    one action keep the interface intuitive and free of hassle.
+  image: /assets/budget.png
+  tags: [JavaScript, HTML, CSS]
+  live: https://jaysak.netlify.app/
+  repo: https://github.com/Jay-Sakabu/LaunchCode-Unit-1-Final-Project/

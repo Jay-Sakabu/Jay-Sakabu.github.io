@@ -1,0 +1,12 @@
+<footer class="footer">
+  <div class="container footer-inner">
+    <div>
+      <p class="footer-name">{{ site.author.name }}</p>
+      <p class="footer-meta">&copy; {{ site.time | date: '%Y' }} &middot; Built with Jekyll, hosted on GitHub Pages</p>
+    </div>
+    <div class="footer-links">
+      <a class="icon-btn" href="{{ site.social.github }}" aria-label="GitHub">{% include icon.html name="github" %}</a>
+      <a class="icon-btn" href="{{ site.social.linkedin }}" aria-label="LinkedIn">{% include icon.html name="linkedin" %}</a>
+    </div>
+  </div>
+</footer>
